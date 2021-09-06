@@ -20,5 +20,6 @@ https://note-taker-exjs.herokuapp.com/ </br>
 ![Application demonstration as a gif](/images/application.gif) </br>
 
 ## Contributions
-Created by Xander Rapstine and John McCambridge
+Created by Xander Rapstine and John McCambridge 
+</br>
 Refactored by Ven Kim
